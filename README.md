@@ -1,5 +1,5 @@
 # Entornos-Desarrollo
-![Logo del proyecto]([https://via.placeholder.com/300x100.png?text=Mi+Proyecto](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDDIapoXLOElKrZ1ttJZIJWSCOK_-Ilsqgm2LkkQtZtvDCyZQtwzj3TXuj&s=10))
+![Logo del proyecto](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDDIapoXLOElKrZ1ttJZIJWSCOK_-Ilsqgm2LkkQtZtvDCyZQtwzj3TXuj&s=10)
 
 ## Características
 
